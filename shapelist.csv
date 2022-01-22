@@ -1,0 +1,5 @@
+"object","location","shape","param1","param2","param3","color"
+"1","1,1","square","5","","","red"
+"2","1,2","circle","10","","","green"
+"3","100,100","rect","40","50","","blue"
+"4","50,50","triangle","(10,10)","(20,20)","(10,0)","pink"

@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"object","INTEGER","1","1","0"
+"location","STRING","7","0","0"
+"shape","STRING","8","0","0"
+"param1","STRING","7","2","0"
+"param2","STRING","7","0","0"
+"param3","STRING","6","0","0"
+"color","STRING","5","0","0"
